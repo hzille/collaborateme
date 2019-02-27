@@ -13,3 +13,8 @@ def sieve_of_eratosthenes(n: int) -> set:
             
     return numberline
 
+
+def add_test(x,y):
+    """Add two numbers"""
+    new_number = x + y
+    return new_number
