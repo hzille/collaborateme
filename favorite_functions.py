@@ -13,7 +13,7 @@ def sieve_of_eratosthenes(n: int) -> set:
             
     return numberline
 
-
+# Helges favorite function:
 def add_test(x,y):
     """Add two numbers"""
     new_number = x + y
